@@ -30,7 +30,7 @@ git clone https://github.com/your-username/hacktoberfest.git
 
 # Create a branch
 git checkout -b branch-name
-Make your changes (choose from any task below)
+Make your changes
 
 # Commit and push
 git add .
